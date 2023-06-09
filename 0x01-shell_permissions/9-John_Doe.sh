@@ -1,2 +1,0 @@
-#!/bin/bash
-sudo chown 753 hello
