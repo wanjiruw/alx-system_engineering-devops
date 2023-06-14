@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | head -n +1
+paste -d" " - - | cut -d " " -f 1
