@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo {aa..zz} | grep -i '[aa-zz]'
+echo {aa..zz} | grep -i '[a-z]'
